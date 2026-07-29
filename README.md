@@ -52,7 +52,10 @@ python main.py
 
 ## 📸 Preview
 
-Add a screenshot or GIF of your game here to showcase the gameplay.
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 115820" src="https://github.com/user-attachments/assets/198340ea-b868-4164-afbb-2913d03c28f0" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 115841" src="https://github.com/user-attachments/assets/846d6b68-4dde-4c4a-8aa8-7c7cf651ab79" />
+
+
 
 ## 🎯 Future Improvements
 
